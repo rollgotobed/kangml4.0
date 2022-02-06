@@ -11,7 +11,7 @@ PHP均未解密<br>
 欢迎只会偷wukeyun继续来偷<br>
 <br>
 一键脚本：<br>
-`yum -y install wget;wget -N --no-check-certificate "https://raw.githubusercontent.com/lingyia/kangml4.0/master/kangml.sh";chmod 777 kangml.sh;./kangml.sh`
+`yum -y install wget;wget -N --no-check-certificate "https://raw.githubusercontent.com/rollgotobed/kangml4.0/master/kangml.sh";chmod 777 kangml.sh;./kangml.sh`
 <br>
 养猪发家致富交流群：302638446<br>
 宁缺毋滥，伞兵勿扰<br>
